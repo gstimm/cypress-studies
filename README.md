@@ -1,2 +1,1 @@
 # cypress-studies
-# cypress-studies
